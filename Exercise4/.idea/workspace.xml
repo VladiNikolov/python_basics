@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76c0d0f1-7474-45c2-915a-afdf61d95783" name="Changes" comment="" />
+    <list default="true" id="76c0d0f1-7474-45c2-915a-afdf61d95783" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_numbers_ending_in_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_half_sum_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_clever_lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_oscars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07_trekking_mania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_tennis_ranklist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/01_numbers_from_1_to_100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/02_numbers_1...N_with_step_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/03_even_powers_of_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/04_numbers_n...1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/05_character_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/06_vowels_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/07_sum_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/08_number_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/09_left_and_right_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab4/10_odd_even_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/.idea/upr3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/01_match_tickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/02_bike_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/03_flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/04_car_to_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/05_vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/06_truck_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/07_school_camp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/08_point_on_rectangle_border.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/09_numbers_from_1_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/10_multiply_by_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/car_to_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/multiply_by_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/numbers_from_1_to_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/point_on_rectangle_border.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/school_camp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/truck_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/vacation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/even_powers_of_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/even_powers_of_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PB _More_Exercises/upr3/bike_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/bike_race.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PB _More_Exercises/upr3/flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/flowers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PB _More_Exercises/upr3/match_tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/match_tickets.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +58,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="24Srtcu8gG3UlppCBBuJ3xg1bsX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,10 +70,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Exercise5" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.tennis_ranklist">
-    <configuration name="clever_lily" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.08_tennis_ranklist">
+    <configuration name="04_clever_lily" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clever_lily.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\desat\PycharmProjects\Exercise4\04_clever_lily.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="oscars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oscars.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_salary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_oscars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/salary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_oscars.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tennis_ranklist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_trekking_mania" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +149,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tennis_ranklist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_trekking_mania.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="trekking_mania" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08_tennis_ranklist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Lab4" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +170,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trekking_mania.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_tennis_ranklist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tennis_ranklist" />
-        <item itemvalue="Python.trekking_mania" />
-        <item itemvalue="Python.salary" />
-        <item itemvalue="Python.oscars" />
-        <item itemvalue="Python.clever_lily" />
+        <item itemvalue="Python.08_tennis_ranklist" />
+        <item itemvalue="Python.07_trekking_mania" />
+        <item itemvalue="Python.06_oscars" />
+        <item itemvalue="Python.05_salary" />
+        <item itemvalue="Python.04_clever_lily" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +200,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -163,6 +224,41 @@
           <url>file://$PROJECT_DIR$/trekking_mania.py</url>
           <line>8</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_histogram.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_clever_lily.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05_salary.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_oscars.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06_oscars.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07_trekking_mania.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/08_tennis_ranklist.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
