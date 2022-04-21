@@ -2,49 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76c0d0f1-7474-45c2-915a-afdf61d95783" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_numbers_ending_in_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_half_sum_element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_histogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_clever_lily.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05_salary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06_oscars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07_trekking_mania.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08_tennis_ranklist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/01_numbers_from_1_to_100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/02_numbers_1...N_with_step_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/03_even_powers_of_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/04_numbers_n...1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/05_character_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/06_vowels_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/07_sum_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/08_number_sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/09_left_and_right_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lab4/10_odd_even_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/.idea/upr3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/01_match_tickets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/02_bike_race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/03_flowers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/04_car_to_go.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/05_vacation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/06_truck_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/07_school_camp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/08_point_on_rectangle_border.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/09_numbers_from_1_to_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/10_multiply_by_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/car_to_go.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/multiply_by_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/numbers_from_1_to_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/point_on_rectangle_border.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/school_camp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/truck_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/vacation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab4/even_powers_of_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/even_powers_of_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PB _More_Exercises/upr3/bike_race.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/bike_race.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PB _More_Exercises/upr3/flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/flowers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PB _More_Exercises/upr3/match_tickets.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PB _More_Exercises/upr3/match_tickets.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PB _More_Exercises/upr1" />
   </component>
   <component name="RunManager" selected="Python.08_tennis_ranklist">
     <configuration name="04_clever_lily" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">

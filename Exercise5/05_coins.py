@@ -1,0 +1,59 @@
+# sum_resto = float(input())
+# sum_resto = int(sum_resto * 100)
+# coins_counter = 0
+# while sum_resto > 0:
+#     if sum_resto >= 200:
+#         sum_resto = sum_resto - 200
+#         coins_counter += 1
+#     elif sum_resto >= 100:
+#         sum_resto = sum_resto - 100
+#         coins_counter += 1
+#     elif sum_resto >= 50:
+#         sum_resto = sum_resto - 50
+#         coins_counter += 1
+#     elif sum_resto >= 20:
+#         sum_resto = sum_resto - 20
+#         coins_counter += 1
+#     elif sum_resto >= 10:
+#         sum_resto = sum_resto - 10
+#         coins_counter += 1
+#     elif sum_resto >= 5:
+#         sum_resto = sum_resto - 5
+#         coins_counter += 1
+#     elif sum_resto >= 2:
+#         sum_resto = sum_resto - 2
+#         coins_counter += 1
+#     elif sum_resto >= 1:
+#         sum_resto = sum_resto - 1
+#         coins_counter += 1
+# print(coins_counter)
+
+sum_resto = float(input())
+sum_resto = int(sum_resto * 100)
+coins_counter = 0
+for number in range(sum_resto):
+    if sum_resto >= 200:
+        sum_resto = sum_resto - 200
+        coins_counter += 1
+    elif sum_resto >= 100:
+        sum_resto = sum_resto - 100
+        coins_counter += 1
+    elif sum_resto >= 50:
+        sum_resto = sum_resto - 50
+        coins_counter += 1
+    elif sum_resto >= 20:
+        sum_resto = sum_resto - 20
+        coins_counter += 1
+    elif sum_resto >= 10:
+        sum_resto = sum_resto - 10
+        coins_counter += 1
+    elif sum_resto >= 5:
+        sum_resto = sum_resto - 5
+        coins_counter += 1
+    elif sum_resto >= 2:
+        sum_resto = sum_resto - 2
+        coins_counter += 1
+    elif sum_resto >= 1:
+        sum_resto = sum_resto - 1
+        coins_counter += 1
+print(coins_counter)
